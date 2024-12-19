@@ -25,7 +25,7 @@ If you want to convert the image into ascii it asks width and height , the ascii
 ## Installation
 
 1. git clone https://github.com/kareem1207/Image-Converter.git
-2. cd
+2. cd "Image-Converter-main"
 
 ## Output :
 
